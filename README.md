@@ -1,4 +1,4 @@
-# Desafio-Cartas-Super-Trunfo
+# Desafio-Lógica-Super-Trunfo
 New Work
 #include <stdio.h>
 #include <locale.h>
